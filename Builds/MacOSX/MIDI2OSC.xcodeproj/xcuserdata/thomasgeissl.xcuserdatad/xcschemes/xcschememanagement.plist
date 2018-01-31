@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MIDI2OSC - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MIDI2OSC - AUv3 AppExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>MIDI2OSC - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MIDI2OSC - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>MIDI2OSC - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>MIDI2OSC - VST.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>77FCA06C12A7EF4C78698CF7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7848BA219F31C3BA2D428513</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>91630B435FB43F3F1F583B12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC26BDB08A5B045C11A487C4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2D497D9095A28C0409D8D1A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F3F115C6A16E0C6D6A354EB2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
